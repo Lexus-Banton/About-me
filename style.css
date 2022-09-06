@@ -1,21 +1,21 @@
 body {
-    text-align: center;
-   background: url("https://w.wallha.com/ws/13/l4D68WjQ.png");
-    background-size: cover;
-    background-position: center;
-    color: rgb(167, 82, 4);
-    font-family: helvetica;
-    
-  }
-  p {
-    font-size: 22px;
-  }
-  input {
-    border: 0;
-    padding: 10px;
-    font-size: 18px;
-  }
-  input[type="submit"] {
-    background: red;
-    color: white;
-  }
+  text-align: center;
+  background: url("https://cdn.shopify.com/s/files/1/0416/8083/0620/files/4-4_PN_FOOD_B_Wallpaper_1500x2000_2d8eba68-8105-4222-a570-7f1a70183ad1.png?v=1649345562");
+  background-size: cover;
+  background-position: center;
+  color: rgb(167, 151, 4);
+  font-family: helvetica;
+}
+p {
+  font-size: 22px;
+  background-color: rgb(241, 196, 46);
+}
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+input[type="submit"] {
+  background: red;
+  color: white;
+}
